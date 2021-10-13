@@ -1,6 +1,7 @@
 ## Summary
 
-The operation of my software will have the ability to share random images or images for the purpose of education example (College, High School, or tech workplace) through direct messages or through group messages. Whether it be a photo captured through your phone or something you found on the internet. 
+The operation of my software will have the ability to chat and share random images or images for the purpose of education (College, High School, or tech workplace) through direct messages or through group messages.
+Images can be up-loaded from device into the app. 
 
 ## Intended users
 
@@ -12,6 +13,10 @@ The operation of my software will have the ability to share random images or ima
 
 > As a future tech employee, an app that utilizes direct messages to send to either co-workers or an employer about potential projects or current projects. Having feedback directly from a person or a group 
 > will ensure positive reinforcement. 
+
+* Gamers 
+
+> As a gamer, it'll be cool to have an app to talk and share images to my friends about recent game-plays or anything happening in the gaming community.   
 
 ## Client component
 
