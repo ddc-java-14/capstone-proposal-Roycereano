@@ -8,8 +8,8 @@ titles_from_headings:
 
 # Modify the contents below for the specific project.
 
-title: "Near Earth Asteroids"       # Write the project title inside the quotes.
-description: "Can search for Asteroids based on near earth, approaches."  # Write the project description inside the quotes
+title: "IM images"       # Write the project title inside the quotes.
+description: "Ability to send images to one person or a group"  # Write the project description inside the quotes
 author:                                  # Don't do anything with this line!
   name: "Royce Reano"           # Write your name inside the quotes.
 
