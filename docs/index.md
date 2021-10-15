@@ -1,6 +1,6 @@
 ## Summary
 
-The operation of my software will have the ability to chat and share random images or images for the purpose of education (College, High School, or tech workplace) through direct messages or through group messages.
+The operation of my software will have the ability to chat and share random images, through direct messages or through group messages.
 Images can be up-loaded from device into the app. 
 
 ## Intended users
@@ -21,32 +21,30 @@ Images can be up-loaded from device into the app.
 ## Client component
 
 ### Functionality
-
-* Users will be able to share direct images to one person or a group message.
-* Users on the receiving end can send a direct message back to the sender via chat. 
-
-
+* Sign-up process (Full-name, User ID, email.)
+* Users can switch between chats whether it be private or groups. 
+* Read and delivered features.
+ 
 ### Persistent data
-
-*TBD
+* User data is stored
+* Messages between sender and receiver are stored
     
 ### Device/external services
-
-*Users can save images to phone.
+* Users can save images to phone.
+* App alerts when messages are received. 
     
 ## Server component
 
 ### Functionality
-
-*TBD.
+* Server will handle communication to and from the app.
+* Server will handle messages being sent from the app to the Cloud. 
 
 ### Persistent data
-
-*TBD. 
+* Server will store chats that are left when app is closed containing all images and threads. 
     
-### External services
-
-*TBD.
+### External services 
+* API or Cloud service? for communicating between client and server 
+* Google sign-in
     
 ## Stretch goals/possible enhancements 
 
